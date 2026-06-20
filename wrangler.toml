@@ -7,5 +7,5 @@ workers_dev = false
 directory = "./public"
 
 [[routes]]
-pattern = "x.emtinker.com/*"
+pattern = "x.emtinker.com"
 custom_domain = true
