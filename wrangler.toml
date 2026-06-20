@@ -1,0 +1,11 @@
+name = "emtinker-x"
+main = "src/index.js"
+compatibility_date = "2026-06-20"
+workers_dev = false
+
+[assets]
+directory = "./public"
+
+[[routes]]
+pattern = "x.emtinker.com/*"
+custom_domain = true
