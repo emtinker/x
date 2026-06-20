@@ -5,7 +5,3 @@ workers_dev = false
 
 [assets]
 directory = "./public"
-
-[[routes]]
-pattern = "x.emtinker.com"
-custom_domain = true
